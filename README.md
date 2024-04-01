@@ -50,6 +50,5 @@ The project is structured into the following directories:
 ### Notes
 - Regular updates to the project may be required to accommodate changes in IMDB and TMDB website structures or APIs.
 - Ensure proper error handling and logging mechanisms are implemented to manage unforeseen issues during data scraping and analysis.
-- The project can be extended to include additional features like user authentication, recommendation systems, or collaborative filtering for enhanced user experience.
 
 The Cinematic & Television Archive Network Project aims to provide a rich and immersive experience for cinephiles, offering a comprehensive platform for exploring and analyzing cinematic data.
