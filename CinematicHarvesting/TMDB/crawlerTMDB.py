@@ -129,7 +129,7 @@ class crawlerTMDB:
         print(f"Scraped data saved to {output_file}")
 
 # TMDb API key
-api_key = "98ab59ec1857b40a9d72cafd8efcb209"
+api_key = "InsertYourAPIKeyHere"
 
 # Create an instance of crawlerTMDB
 crawler = crawlerTMDB(api_key)
