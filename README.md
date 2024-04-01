@@ -1,9 +1,5 @@
-######################################################################                     
-#                                                                    #
-#    Cinematic & Television Archive Network Project Documentation    #
-#                     Created by Filcu Alexandru                     #
-#                                                                    #
-######################################################################     
+Cinematic & Television Archive Network Project Documentation
+
 
 ### Prerequisites
 Before working with the Cinematic & Television Archive Network Project, ensure the following prerequisites are met:
