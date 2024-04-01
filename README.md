@@ -13,8 +13,8 @@ Before working with the Cinematic & Television Archive Network Project, ensure t
     - `beautifulsoup4` is utilized for parsing HTML content fetched from web pages.
     - `pymongo` is required for interfacing with MongoDB.
     - `streamlit` is used for building the web interface.
-- **Access to IMDB and TMDB APIs**: Obtain API keys for accessing data from IMDB and TMDB. You can register for API keys on the respective websites:
-    - [IMDB API](https://developer.imdb.com/)
+- **Access to TMDB API**: Obtain API keys for accessing data from TMDB. You can register for API keys on the respective websites:
+      - [TMDB API](https://www.themoviedb.org/documentation/api)
 
 - **MongoDB Installation**: MongoDB must be installed and running on your system. You can download MongoDB from the [official website](https://www.mongodb.com/try/download/community).
 
