@@ -1,0 +1,120 @@
+######################################################################                     
+#                                                                    #
+#    Cinematic & Television Archive Network Project Documentation    #
+#                     Created by Filcu Alexandru                     #
+#                                                                    #
+#######################################################################     
+
+-> Cinematic & Television Archive Network Project is a project in which i combine everything i know about Python
+-> Cinematic & Television Archive Network Project was developed for the cinematic data lovers
+-> Cinematic & Television Archive Network Project will scrape IMDB&TMDB and save the scraped data into a MongoDB and analyse the IMDB cinematic data using streamlit.
+
+
+
+Cinematic & Television Archive Network Structure:
+
+Cinematic&TelevisionArchiveNetwork/
+├── CinematicHarvesting
+│   ├── IMDB
+│   │   ├── Movies
+│   │   │   └── Crawlers
+│   │   │       ├── crawlerActionMovies.py
+│   │   │       ├── crawlerAdventureMovies.py
+│   │   │       ├── crawlerAnimationMovies.py
+│   │   │       ├── crawlerComedyMovies.py
+│   │   │       ├── crawlerCrimeMovies.py
+│   │   │       ├── crawlerDocumentaryMovies.py
+│   │   │       ├── crawlerDramaMovies.py
+│   │   │       ├── crawlerHorrorMovies.py
+│   │   │       ├── crawlerMusicalMovies.py
+│   │   │       ├── crawlerRomanceMovies.py
+│   │   │       ├── crawlerSciFiMovies.py
+│   │   │       ├── crawlerSportMovies.py
+│   │   │       ├── crawlerThrillerMovies.py
+│   │   │       └── crawlerWesternMovies.py
+│   │   └── TVSeries
+│   │       └── Crawlers
+│   │           ├── crawlerActionTVSeries.py
+│   │           ├── crawlerAdventureTVSeries.py
+│   │           ├── crawlerAnimationTVSeries.py
+│   │           ├── crawlerComedyTVSeries.py
+│   │           ├── crawlerCrimeTVSeries.py
+│   │           ├── crawlerDocumentaryTVSeries.py
+│   │           ├── crawlerDramaTVSeries.py
+│   │           ├── crawlerHorrorTVSeries.py
+│   │           ├── crawlerMusicalTVSeries.py
+│   │           ├── crawlerRomanceTVSeries.py
+│   │           ├── crawlerSciFiTVSeries.py
+│   │           ├── crawlerSportTVSeries.py
+│   │           ├── crawlerThrillerTVSeries.py
+│   │           └── crawlerWesternTVSeries.py
+│   └── TMDB
+│       └── crawlerTMDB.py
+├── Database
+│   ├── JSONS
+│   │   ├── action_movies.json
+│   │   ├── action_tvseries.json
+│   │   ├── adventure_movies.json
+│   │   ├── adventure_tvseries.json
+│   │   ├── animation_movies.json
+│   │   ├── animation_tvseries.json
+│   │   ├── comedy_movies.json
+│   │   ├── comedy_tvseries.json
+│   │   ├── crime_movies.json
+│   │   ├── crime_tvseries.json
+│   │   ├── documentary_movies.json
+│   │   ├── documentary_tvseries.json
+│   │   ├── drama_movies.json
+│   │   ├── drama_tvseries.json
+│   │   ├── horror_movies.json
+│   │   ├── horror_tvseries.json
+│   │   ├── musical_movies.json
+│   │   ├── musical_tvseries.json
+│   │   ├── romance_movies.json
+│   │   ├── romance_tvseries.json
+│   │   ├── scifi_movies.json
+│   │   ├── scifi_tvseries.json
+│   │   ├── sport_movies.json
+│   │   ├── sport_tvseries.json
+│   │   ├── thriller_movies.json
+│   │   ├── thriller_tvseries.json
+│   │   ├── tmdb_movies.json
+│   │   ├── western_movies.json
+│   │   └── western_tvseries.json
+│   └── Tools
+│       ├── IMDBToMongoDB.py
+│       └── TMDBToMongoDB.py
+├── Documentation
+│   └── Project-Documentation.txt
+├── FetchAndInsertTMDB.py
+├── FetchAndInsertsIMDB.py
+├── Web
+│   └── WebApp.py
+└── main.py
+
+One folder called "Cinematic-Harvesting":
+    - Contains: 
+        - IMDB Folder: All IMDB scrapers for movies and tv-series by genre, one scraper for each.
+        - TMDB Folder: One TMDB scraper for movies and tv-series using TMDB API Key.
+
+One folder called Database:
+    - Contains: 
+        - JSONS Folder: All scraped data it's saved here in a .json format
+        - Tools Folder: Python scripts to insert IMDB and TMDB scraped data into MongoDB using .json files
+
+One folder called Documentation:
+    - Contains:
+        - The project documentation
+
+One folder called Web:
+    - Contains the streamlit web app for data visualisation.
+
+3 Separate Python Scripts:
+    - FetchAndInsertsIMDB: Starts IMDB movies&tv-series crawlers and inserts the data into MongoDB
+    - FetchAndInsertTMDB: Starts TMDB movies&tv-series crawler and inserts the data into MongoDB
+    - main.py: Starts FetchAndInsertsIMDB&FetchAndInsertTMDB and the streamlit web app.
+
+
+
+
+

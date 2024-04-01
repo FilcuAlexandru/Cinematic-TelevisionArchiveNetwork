@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "runtime": "2h 46m",
+        "rated": "PG-13",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "Godzilla x Kong: The New Empire",
+        "year": "2024",
+        "runtime": "1h 55m",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Ghostbusters: Frozen Empire",
+        "year": "2024",
+        "runtime": "1h 55m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Poor Things",
+        "year": "2023",
+        "runtime": "2h 21m",
+        "rated": "R",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Dune",
+        "year": "2021",
+        "runtime": "2h 35m",
+        "rated": "PG-13",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Ghostbusters: Afterlife",
+        "year": "2021",
+        "runtime": "2h 4m",
+        "rated": "PG-13",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Alien: Romulus",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Madame Web",
+        "year": "2024",
+        "runtime": "1h 56m",
+        "rated": "PG-13",
+        "imdb_rating": "3.8"
+    },
+    {
+        "title": "Ghostbusters",
+        "year": "1984",
+        "runtime": "1h 45m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Dune",
+        "year": "1984",
+        "runtime": "2h 17m",
+        "rated": "PG-13",
+        "imdb_rating": "6.3"
+    },
+    {
+        "title": "Spaceman",
+        "year": "2024",
+        "runtime": "1h 47m",
+        "rated": "R",
+        "imdb_rating": "5.7"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "runtime": "2h 49m",
+        "rated": "PG-13",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Godzilla Minus One",
+        "year": "2023",
+        "runtime": "2h 4m",
+        "rated": "PG-13",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Godzilla vs. Kong",
+        "year": "2021",
+        "runtime": "1h 53m",
+        "rated": "PG-13",
+        "imdb_rating": "6.3"
+    },
+    {
+        "title": "Furiosa: A Mad Max Saga",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Aquaman and the Lost Kingdom",
+        "year": "2023",
+        "runtime": "2h 4m",
+        "rated": "PG-13",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "year": "2023",
+        "runtime": "2h 37m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Rebel Moon - Part One: A Child of Fire",
+        "year": "2023",
+        "runtime": "2h 13m",
+        "rated": "PG-13",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "Ghostbusters",
+        "year": "2016",
+        "runtime": "1h 57m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Kingdom of the Planet of the Apes",
+        "year": "2024",
+        "runtime": "PG-13",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": "2015",
+        "runtime": "2h",
+        "rated": "R",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "The Martian",
+        "year": "2015",
+        "runtime": "2h 24m",
+        "rated": "PG-13",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "runtime": "2h 28m",
+        "rated": "PG-13",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "Blade Runner 2049",
+        "year": "2017",
+        "runtime": "2h 44m",
+        "rated": "R",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "year": "2022",
+        "runtime": "2h 19m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "runtime": "1h 57m",
+        "rated": "R",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Megalopolis",
+        "year": "N/A",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "runtime": "2h 20m",
+        "rated": "PG",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Ghostbusters II",
+        "year": "1989",
+        "runtime": "1h 48m",
+        "rated": "PG",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "The Creator",
+        "year": "2023",
+        "runtime": "2h 13m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Godzilla: King of the Monsters",
+        "year": "2019",
+        "runtime": "2h 12m",
+        "rated": "PG-13",
+        "imdb_rating": "6.0"
+    },
+    {
+        "title": "Godzilla",
+        "year": "2014",
+        "runtime": "2h 3m",
+        "rated": "PG-13",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "The Hunger Games",
+        "year": "2012",
+        "runtime": "2h 22m",
+        "rated": "PG-13",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Donnie Darko",
+        "year": "2001",
+        "runtime": "1h 53m",
+        "rated": "R",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "The Flash",
+        "year": "2023",
+        "runtime": "2h 24m",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "runtime": "1h 48m",
+        "rated": "R",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": "2021",
+        "runtime": "2h 28m",
+        "rated": "PG-13",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Asteroid City",
+        "year": "2023",
+        "runtime": "1h 45m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "The Suicide Squad",
+        "year": "2021",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Watchmen",
+        "year": "2009",
+        "runtime": "2h 42m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Lobster",
+        "year": "2015",
+        "runtime": "1h 59m",
+        "rated": "R",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "runtime": "2h 10m",
+        "rated": "PG-13",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "The Matrix",
+        "year": "1999",
+        "runtime": "2h 16m",
+        "rated": "R",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "year": "2023",
+        "runtime": "2h 30m",
+        "rated": "PG-13",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Aliens",
+        "year": "1986",
+        "runtime": "2h 17m",
+        "rated": "R",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Kong: Skull Island",
+        "year": "2017",
+        "runtime": "1h 58m",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Back to the Future",
+        "year": "1985",
+        "runtime": "1h 56m",
+        "rated": "PG",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Star Wars: Episode I - The Phantom Menace",
+        "year": "1999",
+        "runtime": "2h 16m",
+        "rated": "PG",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Back to the Future Part II",
+        "year": "1989",
+        "runtime": "1h 48m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    }
+]

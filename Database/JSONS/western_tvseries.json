@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Yellowstone",
+        "year": "2018\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Little House on the Prairie",
+        "year": "1974\u20131983",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "1883",
+        "year": "2021\u20132022",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "1923",
+        "year": "2022\u20132023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Justified",
+        "year": "2010\u20132015",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Gunsmoke",
+        "year": "1955\u20131975",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Deadwood",
+        "year": "2004\u20132006",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Longmire",
+        "year": "2012\u20132017",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Walker",
+        "year": "2021\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Bonanza",
+        "year": "1959\u20131973",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Godless",
+        "year": "2017",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Walker, Texas Ranger",
+        "year": "1993\u20132001",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "Lawmen: Bass Reeves",
+        "year": "2023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Billy the Kid",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Dr. Quinn, Medicine Woman",
+        "year": "1993\u20131998",
+        "runtime": "TV-G",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Wagon Train",
+        "year": "1957\u20131965",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Joe Pickett",
+        "year": "2021\u20132023",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "The Ranch",
+        "year": "2016\u20132020",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Hell on Wheels",
+        "year": "2011\u20132016",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Lonesome Dove",
+        "year": "1989",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Preacher",
+        "year": "2016\u20132019",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "The Rifleman",
+        "year": "1958\u20131963",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "The Wild Wild West",
+        "year": "1965\u20131969",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "The English",
+        "year": "2022",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Rawhide",
+        "year": "1959\u20131965",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Kung Fu",
+        "year": "1972\u20131975",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Faraway Downs",
+        "year": "2023",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "Frontier",
+        "year": "2016\u20132018",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Death Valley Days",
+        "year": "1952\u20131970",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Hey Dude",
+        "year": "1989\u20131991",
+        "runtime": "TV-Y",
+        "rated": "N/A",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Centennial",
+        "year": "1978\u20131979",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Tales of Wells Fargo",
+        "year": "1957\u20131962",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Wynonna Earp",
+        "year": "2016\u20132021",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Daniel Boone",
+        "year": "1964\u20131970",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "The Virginian",
+        "year": "1962\u20131971",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "6666",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Big Valley",
+        "year": "1965\u20131969",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Abandons",
+        "year": "N/A",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The High Chaparral",
+        "year": "1967\u20131971",
+        "runtime": "PG",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Have Gun - Will Travel",
+        "year": "1957\u20131963",
+        "runtime": "Approved",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Django",
+        "year": "2022\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "4.7"
+    },
+    {
+        "title": "The Lone Ranger",
+        "year": "1949\u20131957",
+        "runtime": "TV-G",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Laramie",
+        "year": "1959\u20131963",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "The Young Riders",
+        "year": "1989\u20131992",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "The Hateful Eight - Extended Version",
+        "year": "2019",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Buffalo Girls",
+        "year": "1995",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Lawman",
+        "year": "1958\u20131962",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Ride",
+        "year": "2023",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "Maverick",
+        "year": "1957\u20131962",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Tin Man",
+        "year": "2007",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    }
+]

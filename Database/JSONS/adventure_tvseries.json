@@ -1,0 +1,352 @@
+[
+    {
+        "title": "3 Body Problem",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Sh\u014dgun",
+        "year": "2024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "9.1"
+    },
+    {
+        "title": "Halo",
+        "year": "2022\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Invincible",
+        "year": "2021\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "X-Men '97",
+        "year": "2024\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "9.0"
+    },
+    {
+        "title": "Game of Thrones",
+        "year": "2011\u20132019",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "9.2"
+    },
+    {
+        "title": "House of the Dragon",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Avatar: The Last Airbender",
+        "year": "2024\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Renegade Nell",
+        "year": "2024\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Avatar: The Last Airbender",
+        "year": "2005\u20132008",
+        "runtime": "TV-Y7-FV",
+        "rated": "N/A",
+        "imdb_rating": "9.3"
+    },
+    {
+        "title": "Star Wars: The Bad Batch",
+        "year": "2021\u20132024",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "X-Men: The Animated Series",
+        "year": "1992\u20131997",
+        "runtime": "TV-Y7",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "The Acolyte",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Solo Leveling",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Doctor Who",
+        "year": "2005\u20132022",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Vikings",
+        "year": "2013\u20132020",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Attack on Titan",
+        "year": "2013\u20132023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "9.1"
+    },
+    {
+        "title": "Fallout",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Last of Us",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Shogun",
+        "year": "1980",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Lost",
+        "year": "2004\u20132010",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "One Piece",
+        "year": "1999\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "9.0"
+    },
+    {
+        "title": "Ronja the Robber's Daughter",
+        "year": "2024\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Ark: The Animated Series",
+        "year": "2024\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Rick and Morty",
+        "year": "2013\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "9.1"
+    },
+    {
+        "title": "S.W.A.T.",
+        "year": "2017\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "The Witcher",
+        "year": "2019\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "year": "2020\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Frieren: Beyond Journey's End",
+        "year": "2023\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "9.0"
+    },
+    {
+        "title": "Star Trek: Discovery",
+        "year": "2017\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Mandalorian",
+        "year": "2019\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "The Spiderwick Chronicles",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Star Trek: The Next Generation",
+        "year": "1987\u20131994",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Bandidos",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "Monarch: Legacy of Monsters",
+        "year": "2023\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "The Legend of Korra",
+        "year": "2012\u20132014",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Smallville",
+        "year": "2001\u20132017",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "The Lord of the Rings: The Rings of Power",
+        "year": "2022\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Extraordinary",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Spartacus",
+        "year": "2010\u20132013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Star Trek: Strange New Worlds",
+        "year": "2022\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Blue Eye Samurai",
+        "year": "2023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Once Upon a Time",
+        "year": "2011\u20132018",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "The Flash",
+        "year": "2014\u20132023",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "One Piece",
+        "year": "2023\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Twisted Metal",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "year": "2019\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Andor",
+        "year": "2022\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "The Orville",
+        "year": "2017\u20132022",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Percy Jackson and the Olympians",
+        "year": "2023\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.1"
+    }
+]

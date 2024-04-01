@@ -1,0 +1,352 @@
+[
+    {
+        "title": "The Iron Claw",
+        "year": "2023",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Challengers",
+        "year": "2024",
+        "runtime": "2h 11m",
+        "rated": "R",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": "2019",
+        "runtime": "2h 32m",
+        "rated": "PG-13",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Ferrari",
+        "year": "2023",
+        "runtime": "2h 10m",
+        "rated": "R",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Gran Turismo",
+        "year": "2023",
+        "runtime": "2h 14m",
+        "rated": "PG-13",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Beautiful Game",
+        "year": "2024",
+        "runtime": "2h 5m",
+        "rated": "PG-13",
+        "imdb_rating": "6.3"
+    },
+    {
+        "title": "Next Goal Wins",
+        "year": "2023",
+        "runtime": "1h 44m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Happy Gilmore",
+        "year": "1996",
+        "runtime": "1h 32m",
+        "rated": "PG-13",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "The Boys in the Boat",
+        "year": "2023",
+        "runtime": "2h 3m",
+        "rated": "PG-13",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Southpaw",
+        "year": "2015",
+        "runtime": "2h 4m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Nyad",
+        "year": "2023",
+        "runtime": "2h 1m",
+        "rated": "PG-13",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Cars",
+        "year": "2006",
+        "runtime": "1h 56m",
+        "rated": "G",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "A League of Their Own",
+        "year": "1992",
+        "runtime": "2h 8m",
+        "rated": "PG",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Bring It On",
+        "year": "2000",
+        "runtime": "1h 38m",
+        "rated": "PG-13",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "She's the Man",
+        "year": "2006",
+        "runtime": "1h 45m",
+        "rated": "PG-13",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "Moneyball",
+        "year": "2011",
+        "runtime": "2h 13m",
+        "rated": "PG-13",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Warrior",
+        "year": "2011",
+        "runtime": "2h 20m",
+        "rated": "PG-13",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "The Sandlot",
+        "year": "1993",
+        "runtime": "1h 41m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Vision Quest",
+        "year": "1985",
+        "runtime": "1h 47m",
+        "rated": "R",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "The Hill",
+        "year": "2023",
+        "runtime": "2h 6m",
+        "rated": "PG",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Rush",
+        "year": "2013",
+        "runtime": "2h 3m",
+        "rated": "R",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Dodgeball: A True Underdog Story",
+        "year": "2004",
+        "runtime": "1h 32m",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "The Karate Kid",
+        "year": "1984",
+        "runtime": "2h 6m",
+        "rated": "PG",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Waves",
+        "year": "2019",
+        "runtime": "2h 15m",
+        "rated": "R",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Rocky",
+        "year": "1976",
+        "runtime": "2h",
+        "rated": "PG",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Air",
+        "year": "2023",
+        "runtime": "1h 51m",
+        "rated": "R",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Talladega Nights: The Ballad of Ricky Bobby",
+        "year": "2006",
+        "runtime": "1h 48m",
+        "rated": "PG-13",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "The Waterboy",
+        "year": "1998",
+        "runtime": "1h 30m",
+        "rated": "PG-13",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "Jerry Maguire",
+        "year": "1996",
+        "runtime": "2h 19m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": "2004",
+        "runtime": "2h 12m",
+        "rated": "PG-13",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "I, Tonya",
+        "year": "2017",
+        "runtime": "1h 59m",
+        "rated": "R",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Major League",
+        "year": "1989",
+        "runtime": "1h 47m",
+        "rated": "R",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Remember the Titans",
+        "year": "2000",
+        "runtime": "1h 53m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Hustle",
+        "year": "2022",
+        "runtime": "1h 57m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Cars 2",
+        "year": "2011",
+        "runtime": "1h 46m",
+        "rated": "G",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "The Great Race",
+        "year": "1965",
+        "runtime": "2h 40m",
+        "rated": "Passed",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Little Wing",
+        "year": "2024",
+        "runtime": "1h 39m",
+        "rated": "PG-13",
+        "imdb_rating": "5.9"
+    },
+    {
+        "title": "Cars 3",
+        "year": "2017",
+        "runtime": "1h 42m",
+        "rated": "G",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "The Blind Side",
+        "year": "2009",
+        "runtime": "2h 9m",
+        "rated": "PG-13",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Raging Bull",
+        "year": "1980",
+        "runtime": "2h 9m",
+        "rated": "R",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Bloodsport",
+        "year": "1988",
+        "runtime": "1h 32m",
+        "rated": "R",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "The Replacements",
+        "year": "2000",
+        "runtime": "1h 58m",
+        "rated": "PG-13",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "Caddyshack",
+        "year": "1980",
+        "runtime": "1h 38m",
+        "rated": "13+",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "The Basketball Diaries",
+        "year": "1995",
+        "runtime": "1h 42m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Field of Dreams",
+        "year": "1989",
+        "runtime": "1h 47m",
+        "rated": "PG",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Rookie of the Year",
+        "year": "1993",
+        "runtime": "1h 43m",
+        "rated": "PG",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "Champions",
+        "year": "2023",
+        "runtime": "2h 4m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Creed",
+        "year": "2015",
+        "runtime": "2h 13m",
+        "rated": "PG-13",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Fighter",
+        "year": "2010",
+        "runtime": "1h 56m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "The Barkley Marathons: The Race That Eats Its Young",
+        "year": "2014",
+        "runtime": "1h 29m",
+        "rated": "Not Rated",
+        "imdb_rating": "7.7"
+    }
+]

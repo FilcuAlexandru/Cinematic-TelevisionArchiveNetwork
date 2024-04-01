@@ -1,0 +1,352 @@
+[
+    {
+        "title": "20 Days in Mariupol",
+        "year": "2023",
+        "runtime": "1h 35m",
+        "rated": "TV-PG",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "The Truth vs. Alex Jones",
+        "year": "2024",
+        "runtime": "2h 1m",
+        "rated": "TV-MA",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Taylor Swift: The Eras Tour",
+        "year": "2023",
+        "runtime": "2h 49m",
+        "rated": "PG-13",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "The Bloody Hundredth",
+        "year": "2024",
+        "runtime": "1h 2m",
+        "rated": "TV-14",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Freaknik: The Wildest Party Never Told",
+        "year": "2024",
+        "runtime": "1h 22m",
+        "rated": "N/A",
+        "imdb_rating": "5.7"
+    },
+    {
+        "title": "To Kill a Tiger",
+        "year": "2022",
+        "runtime": "2h 8m",
+        "rated": "TV-MA",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Orange Years: The Nickelodeon Story",
+        "year": "2018",
+        "runtime": "1h 42m",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Stormy",
+        "year": "2024",
+        "runtime": "1h 49m",
+        "rated": "TV-MA",
+        "imdb_rating": "5.9"
+    },
+    {
+        "title": "My Truth: The Rape of Two Coreys",
+        "year": "2020",
+        "runtime": "1h 25m",
+        "rated": "Not Rated",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "The Barkley Marathons: The Race That Eats Its Young",
+        "year": "2014",
+        "runtime": "1h 29m",
+        "rated": "Not Rated",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Frida",
+        "year": "2024",
+        "runtime": "1h 27m",
+        "rated": "R",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Jodorowsky's Dune",
+        "year": "2013",
+        "runtime": "1h 30m",
+        "rated": "PG-13",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Christspiracy",
+        "year": "2024",
+        "runtime": "1h 51m",
+        "rated": "PG-13",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "The Greatest Love Story Never Told",
+        "year": "2024",
+        "runtime": "1h 26m",
+        "rated": "R",
+        "imdb_rating": "5.8"
+    },
+    {
+        "title": "Lover Stalker Killer",
+        "year": "2024",
+        "runtime": "1h 30m",
+        "rated": "TV-MA",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Madu",
+        "year": "2024",
+        "runtime": "1h 40m",
+        "rated": "TV-PG",
+        "imdb_rating": "5.2"
+    },
+    {
+        "title": "Dave Attell: Hot Cross Buns",
+        "year": "2024",
+        "runtime": "40m",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Spermworld",
+        "year": "2024",
+        "runtime": "1h 24m",
+        "rated": "TV-MA",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "In Restless Dreams: The Music of Paul Simon",
+        "year": "2023",
+        "runtime": "3h 29m",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "The Ark and the Darkness",
+        "year": "2024",
+        "runtime": "2h 5m",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "You Can Call Me Bill",
+        "year": "2023",
+        "runtime": "1h 36m",
+        "rated": "PG-13",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "The Greatest Night in Pop",
+        "year": "2024",
+        "runtime": "1h 36m",
+        "rated": "PG-13",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Four Daughters",
+        "year": "2023",
+        "runtime": "1h 47m",
+        "rated": "Not Rated",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "An Open Secret",
+        "year": "2014",
+        "runtime": "1h 39m",
+        "rated": "Unrated",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "They Called Him Mostly Harmless",
+        "year": "2024",
+        "runtime": "1h 29m",
+        "rated": "N/A",
+        "imdb_rating": "5.8"
+    },
+    {
+        "title": "Ibelin",
+        "year": "2024",
+        "runtime": "1h 46m",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Against All Enemies",
+        "year": "2023",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "My Octopus Teacher",
+        "year": "2020",
+        "runtime": "1h 25m",
+        "rated": "TV-G",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Smoke Sauna Sisterhood",
+        "year": "2023",
+        "runtime": "1h 29m",
+        "rated": "N/A",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Carol Doda Topless at the Condor",
+        "year": "2023",
+        "runtime": "1h 40m",
+        "rated": "R",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "The Blue Angels",
+        "year": "2024",
+        "runtime": "G",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Stop Making Sense",
+        "year": "1984",
+        "runtime": "1h 28m",
+        "rated": "PG",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Faces of Death",
+        "year": "1978",
+        "runtime": "1h 45m",
+        "rated": "Not Rated",
+        "imdb_rating": "4.2"
+    },
+    {
+        "title": "Einstein and the Bomb",
+        "year": "2024",
+        "runtime": "1h 16m",
+        "rated": "TV-MA",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Tell Them You Love Me",
+        "year": "2023",
+        "runtime": "1h 42m",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "God & Country",
+        "year": "2024",
+        "runtime": "1h 30m",
+        "rated": "PG-13",
+        "imdb_rating": "4.3"
+    },
+    {
+        "title": "Hate to Love: Nickelback",
+        "year": "2023",
+        "runtime": "1h 30m",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Killing Me Softly with His Songs",
+        "year": "2022",
+        "runtime": "1h 43m",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Rocco",
+        "year": "2016",
+        "runtime": "1h 45m",
+        "rated": "TV-MA",
+        "imdb_rating": "5.7"
+    },
+    {
+        "title": "Remembering Gene Wilder",
+        "year": "2023",
+        "runtime": "1h 32m",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "The Apple Doesn't Fall Far from the Tree",
+        "year": "2023",
+        "runtime": "48m",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Navalny",
+        "year": "2022",
+        "runtime": "1h 39m",
+        "rated": "R",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Den Sista Resan",
+        "year": "2024",
+        "runtime": "1h 30m",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Inside Job",
+        "year": "2010",
+        "runtime": "1h 49m",
+        "rated": "PG-13",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Free Solo",
+        "year": "2018",
+        "runtime": "1h 40m",
+        "rated": "PG-13",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Climate: The Movie (The Cold Truth)",
+        "year": "2023",
+        "runtime": "1h 20m",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Menus-Plaisirs - Les Troisgros",
+        "year": "2023",
+        "runtime": "4h",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "The Act of Killing",
+        "year": "2012",
+        "runtime": "1h 57m",
+        "rated": "Not Rated",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "American Symphony",
+        "year": "2023",
+        "runtime": "1h 44m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Renaissance: A Film by Beyonc\u00e9",
+        "year": "2023",
+        "runtime": "2h 49m",
+        "rated": "Not Rated",
+        "imdb_rating": "8.6"
+    }
+]

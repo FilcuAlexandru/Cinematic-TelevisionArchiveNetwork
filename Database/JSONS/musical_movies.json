@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Wonka",
+        "year": "2023",
+        "runtime": "1h 56m",
+        "rated": "PG",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Mean Girls",
+        "year": "2024",
+        "runtime": "1h 52m",
+        "rated": "PG-13",
+        "imdb_rating": "5.7"
+    },
+    {
+        "title": "Joker: Folie \u00e0 Deux",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "La La Land",
+        "year": "2016",
+        "runtime": "2h 8m",
+        "rated": "PG-13",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "This Is Me... Now",
+        "year": "2024",
+        "runtime": "1h 5m",
+        "rated": "16+",
+        "imdb_rating": "4.4"
+    },
+    {
+        "title": "Willy Wonka & the Chocolate Factory",
+        "year": "1971",
+        "runtime": "1h 40m",
+        "rated": "G",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Charlie and the Chocolate Factory",
+        "year": "2005",
+        "runtime": "1h 55m",
+        "rated": "PG",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Wish",
+        "year": "2023",
+        "runtime": "1h 35m",
+        "rated": "PG",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "The Greatest Showman",
+        "year": "2017",
+        "runtime": "1h 45m",
+        "rated": "PG",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "The Lion King",
+        "year": "1994",
+        "runtime": "1h 28m",
+        "rated": "G",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "The Color Purple",
+        "year": "2023",
+        "runtime": "2h 21m",
+        "rated": "PG-13",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "The Little Mermaid",
+        "year": "2023",
+        "runtime": "2h 15m",
+        "rated": "PG",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Wicked",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Les Mis\u00e9rables",
+        "year": "2012",
+        "runtime": "2h 38m",
+        "rated": "PG-13",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Jesus Christ Superstar",
+        "year": "1973",
+        "runtime": "1h 46m",
+        "rated": "G",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Mamma Mia!",
+        "year": "2008",
+        "runtime": "1h 48m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Moana",
+        "year": "2016",
+        "runtime": "1h 47m",
+        "rated": "PG",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Sing 2",
+        "year": "2021",
+        "runtime": "1h 50m",
+        "rated": "PG",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "runtime": "1h 43m",
+        "rated": "G",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Leo",
+        "year": "2023",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Encanto",
+        "year": "2021",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Grease",
+        "year": "1978",
+        "runtime": "1h 50m",
+        "rated": "PG",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Beauty and the Beast",
+        "year": "2017",
+        "runtime": "2h 9m",
+        "rated": "PG",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Blues Brothers",
+        "year": "1980",
+        "runtime": "2h 13m",
+        "rated": "R",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": "1939",
+        "runtime": "1h 42m",
+        "rated": "G",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Hamilton",
+        "year": "2020",
+        "runtime": "2h 40m",
+        "rated": "PG-13",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "The Prince of Egypt",
+        "year": "1998",
+        "runtime": "1h 39m",
+        "rated": "PG",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Frozen",
+        "year": "2013",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "The Sound of Music",
+        "year": "1965",
+        "runtime": "2h 52m",
+        "rated": "G",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Hairspray",
+        "year": "2007",
+        "runtime": "1h 57m",
+        "rated": "PG",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Aladdin",
+        "year": "2019",
+        "runtime": "2h 8m",
+        "rated": "PG",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "The Lion King",
+        "year": "2019",
+        "runtime": "1h 58m",
+        "rated": "PG",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Sing",
+        "year": "2016",
+        "runtime": "1h 48m",
+        "rated": "PG",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Moana 2",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Tangled",
+        "year": "2010",
+        "runtime": "1h 40m",
+        "rated": "PG",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Hercules",
+        "year": "1997",
+        "runtime": "1h 33m",
+        "rated": "G",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Mary Poppins",
+        "year": "1964",
+        "runtime": "2h 19m",
+        "rated": "G",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "The Ballad of Buster Scruggs",
+        "year": "2018",
+        "runtime": "2h 13m",
+        "rated": "R",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Mamma Mia! Here We Go Again",
+        "year": "2018",
+        "runtime": "1h 54m",
+        "rated": "PG-13",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "The Wiz",
+        "year": "1978",
+        "runtime": "2h 14m",
+        "rated": "G",
+        "imdb_rating": "5.5"
+    },
+    {
+        "title": "Moulin Rouge!",
+        "year": "2001",
+        "runtime": "2h 7m",
+        "rated": "PG-13",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "year": "2007",
+        "runtime": "1h 56m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "The Phantom of the Opera",
+        "year": "2004",
+        "runtime": "2h 23m",
+        "rated": "PG-13",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Labyrinth",
+        "year": "1986",
+        "runtime": "1h 41m",
+        "rated": "PG",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "West Side Story",
+        "year": "2021",
+        "runtime": "2h 36m",
+        "rated": "PG-13",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Aladdin",
+        "year": "1992",
+        "runtime": "1h 30m",
+        "rated": "G",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Trolls",
+        "year": "2016",
+        "runtime": "1h 32m",
+        "rated": "PG",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "Chicago",
+        "year": "2002",
+        "runtime": "1h 53m",
+        "rated": "PG-13",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Mulan",
+        "year": "1998",
+        "runtime": "1h 27m",
+        "rated": "G",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "High Society",
+        "year": "1956",
+        "runtime": "1h 51m",
+        "rated": "Not Rated",
+        "imdb_rating": "6.9"
+    }
+]

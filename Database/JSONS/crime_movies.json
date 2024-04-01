@@ -1,0 +1,352 @@
+[
+    {
+        "title": "The Gentlemen",
+        "year": "2019",
+        "runtime": "1h 53m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Anatomy of a Fall",
+        "year": "2023",
+        "runtime": "2h 31m",
+        "rated": "R",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Love Lies Bleeding",
+        "year": "2024",
+        "runtime": "1h 44m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Bad Boys: Ride or Die",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Crow",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Killers of the Flower Moon",
+        "year": "2023",
+        "runtime": "3h 26m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Batman",
+        "year": "2022",
+        "runtime": "2h 56m",
+        "rated": "PG-13",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Animal",
+        "year": "2023",
+        "runtime": "3h 24m",
+        "rated": "Not Rated",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "runtime": "2h 55m",
+        "rated": "R",
+        "imdb_rating": "9.2"
+    },
+    {
+        "title": "Joker: Folie \u00e0 Deux",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Wicked Little Letters",
+        "year": "2023",
+        "runtime": "1h 40m",
+        "rated": "R",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "runtime": "2h 32m",
+        "rated": "PG-13",
+        "imdb_rating": "9.0"
+    },
+    {
+        "title": "The Crow",
+        "year": "1994",
+        "runtime": "1h 42m",
+        "rated": "R",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "The Accountant",
+        "year": "2016",
+        "runtime": "2h 8m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "The Brothers Grimsby",
+        "year": "2016",
+        "runtime": "1h 23m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "runtime": "2h 34m",
+        "rated": "R",
+        "imdb_rating": "8.9"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": "2013",
+        "runtime": "3h",
+        "rated": "R",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "The Equalizer 3",
+        "year": "2023",
+        "runtime": "1h 49m",
+        "rated": "R",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Prisoners",
+        "year": "2013",
+        "runtime": "2h 33m",
+        "rated": "R",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "In the Land of Saints and Sinners",
+        "year": "2023",
+        "runtime": "1h 46m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "John Wick: Chapter 4",
+        "year": "2023",
+        "runtime": "2h 49m",
+        "rated": "R",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "runtime": "2h 7m",
+        "rated": "R",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "DogMan",
+        "year": "2023",
+        "runtime": "1h 53m",
+        "rated": "R",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "runtime": "2h 31m",
+        "rated": "R",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Joker",
+        "year": "2019",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Death on the Nile",
+        "year": "1978",
+        "runtime": "2h 20m",
+        "rated": "PG",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Snatch",
+        "year": "2000",
+        "runtime": "1h 42m",
+        "rated": "R",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "runtime": "1h 58m",
+        "rated": "R",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Sleeping Dogs",
+        "year": "2024",
+        "runtime": "1h 50m",
+        "rated": "R",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "Goodfellas",
+        "year": "1990",
+        "runtime": "2h 25m",
+        "rated": "R",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Lift",
+        "year": "2024",
+        "runtime": "1h 47m",
+        "rated": "PG-13",
+        "imdb_rating": "5.5"
+    },
+    {
+        "title": "Bad Boys for Life",
+        "year": "2020",
+        "runtime": "2h 4m",
+        "rated": "R",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Heat",
+        "year": "1995",
+        "runtime": "2h 50m",
+        "rated": "R",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Marlowe",
+        "year": "2022",
+        "runtime": "1h 49m",
+        "rated": "R",
+        "imdb_rating": "5.3"
+    },
+    {
+        "title": "Sound of Freedom",
+        "year": "2023",
+        "runtime": "2h 11m",
+        "rated": "PG-13",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Sicario",
+        "year": "2015",
+        "runtime": "2h 1m",
+        "rated": "R",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Girl in the Basement",
+        "year": "2021",
+        "runtime": "1h 28m",
+        "rated": "TV-14",
+        "imdb_rating": "6.3"
+    },
+    {
+        "title": "Fast X",
+        "year": "2023",
+        "runtime": "2h 21m",
+        "rated": "PG-13",
+        "imdb_rating": "5.8"
+    },
+    {
+        "title": "L\u00e9on: The Professional",
+        "year": "1994",
+        "runtime": "1h 50m",
+        "rated": "R",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Thunderbolts",
+        "year": "2025",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "John Wick",
+        "year": "2014",
+        "runtime": "1h 41m",
+        "rated": "R",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": "2002",
+        "runtime": "2h 21m",
+        "rated": "PG-13",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "American Psycho",
+        "year": "2000",
+        "runtime": "1h 42m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "A Haunting in Venice",
+        "year": "2023",
+        "runtime": "1h 43m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "The Equalizer",
+        "year": "2014",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": "1984",
+        "runtime": "3h 49m",
+        "rated": "R",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Code 8",
+        "year": "2019",
+        "runtime": "1h 38m",
+        "rated": "Not Rated",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "Megamind vs. The Doom Syndicate",
+        "year": "2024",
+        "runtime": "1h 23m",
+        "rated": "TV-G",
+        "imdb_rating": "2.3"
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "runtime": "3h 22m",
+        "rated": "R",
+        "imdb_rating": "9.0"
+    }
+]

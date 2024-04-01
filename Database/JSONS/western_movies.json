@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Killers of the Flower Moon",
+        "year": "2023",
+        "runtime": "3h 26m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Revenant",
+        "year": "2015",
+        "runtime": "2h 36m",
+        "rated": "R",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "runtime": "2h 45m",
+        "rated": "R",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Redeeming Love",
+        "year": "2022",
+        "runtime": "2h 14m",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Tombstone",
+        "year": "1993",
+        "runtime": "2h 10m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Eddington",
+        "year": "N/A",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Hateful Eight",
+        "year": "2015",
+        "runtime": "2h 48m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "The Dead Don't Hurt",
+        "year": "2023",
+        "runtime": "2h 9m",
+        "rated": "R",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Settlers",
+        "year": "2023",
+        "runtime": "1h 37m",
+        "rated": "Not Rated",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "runtime": "2h 58m",
+        "rated": "Approved",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "Dances with Wolves",
+        "year": "1990",
+        "runtime": "3h 1m",
+        "rated": "PG-13",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "City Slickers",
+        "year": "1991",
+        "runtime": "1h 53m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Wind River",
+        "year": "2017",
+        "runtime": "1h 47m",
+        "rated": "R",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Blazing Saddles",
+        "year": "1974",
+        "runtime": "1h 33m",
+        "rated": "R",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Bone Tomahawk",
+        "year": "2015",
+        "runtime": "2h 12m",
+        "rated": "Not Rated",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Hell or High Water",
+        "year": "2016",
+        "runtime": "1h 42m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Ballad of Buster Scruggs",
+        "year": "2018",
+        "runtime": "2h 13m",
+        "rated": "R",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Unforgiven",
+        "year": "1992",
+        "runtime": "2h 10m",
+        "rated": "R",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Horizon: An American Saga - Chapter 1",
+        "year": "2024",
+        "runtime": "R",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "1968",
+        "runtime": "2h 46m",
+        "rated": "PG-13",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Hostiles",
+        "year": "2017",
+        "runtime": "2h 14m",
+        "rated": "R",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "The Magnificent Seven",
+        "year": "2016",
+        "runtime": "2h 12m",
+        "rated": "PG-13",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "The Unsinkable Molly Brown",
+        "year": "1964",
+        "runtime": "2h 8m",
+        "rated": "Approved",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "The Power of the Dog",
+        "year": "2021",
+        "runtime": "2h 6m",
+        "rated": "R",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Legends of the Fall",
+        "year": "1994",
+        "runtime": "2h 13m",
+        "rated": "R",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "The Great Race",
+        "year": "1965",
+        "runtime": "2h 40m",
+        "rated": "Passed",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "True Grit",
+        "year": "2010",
+        "runtime": "1h 50m",
+        "rated": "PG-13",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Butcher's Crossing",
+        "year": "2022",
+        "runtime": "1h 45m",
+        "rated": "R",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "Back to the Future Part III",
+        "year": "1990",
+        "runtime": "1h 58m",
+        "rated": "PG",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Young Guns",
+        "year": "1988",
+        "runtime": "1h 47m",
+        "rated": "R",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "The Magnificent Seven",
+        "year": "1960",
+        "runtime": "2h 8m",
+        "rated": "Approved",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Seraphim Falls",
+        "year": "2006",
+        "runtime": "1h 55m",
+        "rated": "R",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "Three Amigos!",
+        "year": "1986",
+        "runtime": "1h 44m",
+        "rated": "PG",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Wyatt Earp",
+        "year": "1994",
+        "runtime": "3h 11m",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "The Highwaymen",
+        "year": "2019",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "Rango",
+        "year": "2011",
+        "runtime": "1h 47m",
+        "rated": "PG",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Silverado",
+        "year": "1985",
+        "runtime": "2h 13m",
+        "rated": "PG-13",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Desperado",
+        "year": "1995",
+        "runtime": "1h 44m",
+        "rated": "R",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Ballad of Little Jo",
+        "year": "1993",
+        "runtime": "2h 1m",
+        "rated": "R",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Young Guns II",
+        "year": "1990",
+        "runtime": "1h 44m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "High Plains Drifter",
+        "year": "1973",
+        "runtime": "1h 45m",
+        "rated": "R",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "The Quick and the Dead",
+        "year": "1995",
+        "runtime": "1h 48m",
+        "rated": "R",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "year": "1969",
+        "runtime": "1h 50m",
+        "rated": "PG",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "3:10 to Yuma",
+        "year": "2007",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "A Fistful of Dollars",
+        "year": "1964",
+        "runtime": "1h 39m",
+        "rated": "R",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Rio Bravo",
+        "year": "1959",
+        "runtime": "2h 21m",
+        "rated": "Passed",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Americana",
+        "year": "2023",
+        "runtime": "1h 50m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Big Jake",
+        "year": "1971",
+        "runtime": "1h 50m",
+        "rated": "PG-13",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Mask of Zorro",
+        "year": "1998",
+        "runtime": "2h 16m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Chaos Walking",
+        "year": "2021",
+        "runtime": "1h 49m",
+        "rated": "PG-13",
+        "imdb_rating": "5.7"
+    }
+]

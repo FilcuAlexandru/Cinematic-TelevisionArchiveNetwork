@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Ted Lasso",
+        "year": "2020\u20132023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "One Tree Hill",
+        "year": "2003\u20132012",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Cobra Kai",
+        "year": "2018\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Friday Night Lights",
+        "year": "2006\u20132011",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "The Grand Tour",
+        "year": "2016\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Blue Mountain State",
+        "year": "2010\u20132011",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "All American",
+        "year": "2018\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Top Gear",
+        "year": "2002\u20132022",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Formula 1: Drive to Survive",
+        "year": "2019\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Haikyu!!",
+        "year": "2014\u20132020",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Eastbound & Down",
+        "year": "2009\u20132013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Shoresy",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "GLOW",
+        "year": "2017\u20132019",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Swagger",
+        "year": "2021\u20132023",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Winning Time: The Rise of the Lakers Dynasty",
+        "year": "2022\u20132023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Welcome to Wrexham",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Dark Side of the Ring",
+        "year": "2019\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "The Dynasty: New England Patriots",
+        "year": "2024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Ballers",
+        "year": "2015\u20132019",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "The League",
+        "year": "2009\u20132015",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "The Last Dance",
+        "year": "2020",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "9.1"
+    },
+    {
+        "title": "Spinning Out",
+        "year": "2020",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Kingdom",
+        "year": "2014\u20132017",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "The Amazing Race",
+        "year": "2001\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Blue Lock",
+        "year": "2022\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Full Swing",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Bloodhounds",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "LazyTown",
+        "year": "2002\u20132014",
+        "runtime": "TV-Y",
+        "rated": "N/A",
+        "imdb_rating": "5.9"
+    },
+    {
+        "title": "Heels",
+        "year": "2021\u20132023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Coppola, the Agent",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "MIGNON",
+        "year": "2023",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Hot Wheels Let's Race",
+        "year": "2024",
+        "runtime": "TV-Y",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Coach",
+        "year": "1989\u20131997",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Baki Hanma",
+        "year": "2021\u20132023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "WWE Raw",
+        "year": "1993\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Kengan Ashura",
+        "year": "2019\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "A League of Their Own",
+        "year": "2022",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Amidst a Snowstorm of Love",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Big Shot",
+        "year": "2021\u20132022",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Fighting Spirit",
+        "year": "2000\u20132002",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "Baki",
+        "year": "2018\u20132020",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Biography: WWE Legends",
+        "year": "2021\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "The Game",
+        "year": "2006\u20132015",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Colin in Black & White",
+        "year": "2021",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "The English Game",
+        "year": "2020",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Mighty Ducks: Game Changers",
+        "year": "2021\u20132022",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "30 for 30",
+        "year": "2009\u2013",
+        "runtime": "TV-G",
+        "rated": "N/A",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "Mike",
+        "year": "2022",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "Gladiators",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Beckham",
+        "year": "2023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    }
+]

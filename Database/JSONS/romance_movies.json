@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Poor Things",
+        "year": "2023",
+        "runtime": "2h 21m",
+        "rated": "R",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Love Lies Bleeding",
+        "year": "2024",
+        "runtime": "1h 44m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Anyone But You",
+        "year": "2023",
+        "runtime": "1h 43m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Irish Wish",
+        "year": "2024",
+        "runtime": "1h 33m",
+        "rated": "TV-PG",
+        "imdb_rating": "5.2"
+    },
+    {
+        "title": "The Crow",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "All of Us Strangers",
+        "year": "2023",
+        "runtime": "1h 45m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Killers of the Flower Moon",
+        "year": "2023",
+        "runtime": "3h 26m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Challengers",
+        "year": "2024",
+        "runtime": "2h 11m",
+        "rated": "R",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Voyeurs",
+        "year": "2021",
+        "runtime": "1h 56m",
+        "rated": "R",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "Murder Mubarak",
+        "year": "2024",
+        "runtime": "2h 20m",
+        "rated": "TV-MA",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Past Lives",
+        "year": "2023",
+        "runtime": "1h 45m",
+        "rated": "PG-13",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "The Idea of You",
+        "year": "2024",
+        "runtime": "1h 55m",
+        "rated": "R",
+        "imdb_rating": "5.5"
+    },
+    {
+        "title": "One Day",
+        "year": "2011",
+        "runtime": "1h 47m",
+        "rated": "PG-13",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Titanic",
+        "year": "1997",
+        "runtime": "3h 14m",
+        "rated": "PG-13",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Lisa Frankenstein",
+        "year": "2024",
+        "runtime": "1h 41m",
+        "rated": "PG-13",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "Love",
+        "year": "2015",
+        "runtime": "2h 15m",
+        "rated": "TV-MA",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "No Hard Feelings",
+        "year": "2023",
+        "runtime": "1h 43m",
+        "rated": "R",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "La La Land",
+        "year": "2016",
+        "runtime": "2h 8m",
+        "rated": "PG-13",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "An Officer and a Gentleman",
+        "year": "1982",
+        "runtime": "2h 4m",
+        "rated": "R",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Priscilla",
+        "year": "2023",
+        "runtime": "1h 53m",
+        "rated": "R",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "Upgraded",
+        "year": "2024",
+        "runtime": "1h 44m",
+        "rated": "R",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "runtime": "1h 48m",
+        "rated": "R",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "runtime": "2h 6m",
+        "rated": "R",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Asteroid City",
+        "year": "2023",
+        "runtime": "1h 45m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "The Lobster",
+        "year": "2015",
+        "runtime": "1h 59m",
+        "rated": "R",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Romeo + Juliet",
+        "year": "1996",
+        "runtime": "2h",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Little Women",
+        "year": "2019",
+        "runtime": "2h 15m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Fifty Shades of Grey",
+        "year": "2015",
+        "runtime": "2h 5m",
+        "rated": "R",
+        "imdb_rating": "4.2"
+    },
+    {
+        "title": "Teri Baaton Mein Aisa Uljha Jiya",
+        "year": "2024",
+        "runtime": "2h 21m",
+        "rated": "N/A",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "runtime": "2h 22m",
+        "rated": "PG-13",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "The Princess Bride",
+        "year": "1987",
+        "runtime": "1h 38m",
+        "rated": "PG",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Call Me by Your Name",
+        "year": "2017",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Maestro",
+        "year": "2023",
+        "runtime": "2h 9m",
+        "rated": "R",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "The Parent Trap",
+        "year": "1998",
+        "runtime": "2h 8m",
+        "rated": "PG",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "Dirty Dancing",
+        "year": "1987",
+        "runtime": "1h 40m",
+        "rated": "PG-13",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Pride & Prejudice",
+        "year": "2005",
+        "runtime": "2h 9m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "My Fault",
+        "year": "2023",
+        "runtime": "1h 57m",
+        "rated": "N/A",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Lucas",
+        "year": "1986",
+        "runtime": "1h 40m",
+        "rated": "PG-13",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "The Notebook",
+        "year": "2004",
+        "runtime": "2h 3m",
+        "rated": "PG-13",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Someone Like You",
+        "year": "2024",
+        "runtime": "1h 58m",
+        "rated": "PG",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Taste of Things",
+        "year": "2023",
+        "runtime": "2h 15m",
+        "rated": "PG-13",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Redeeming Love",
+        "year": "2022",
+        "runtime": "2h 14m",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Crazy, Stupid, Love.",
+        "year": "2011",
+        "runtime": "1h 58m",
+        "rated": "PG-13",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "365 Days",
+        "year": "2020",
+        "runtime": "1h 54m",
+        "rated": "TV-MA",
+        "imdb_rating": "3.3"
+    },
+    {
+        "title": "Rewind",
+        "year": "2023",
+        "runtime": "1h 52m",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Easy A",
+        "year": "2010",
+        "runtime": "1h 32m",
+        "rated": "PG-13",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "10 Things I Hate About You",
+        "year": "1999",
+        "runtime": "1h 37m",
+        "rated": "PG-13",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "First Daughter",
+        "year": "2004",
+        "runtime": "1h 46m",
+        "rated": "PG",
+        "imdb_rating": "5.1"
+    },
+    {
+        "title": "Twilight",
+        "year": "2008",
+        "runtime": "2h 2m",
+        "rated": "PG-13",
+        "imdb_rating": "5.3"
+    },
+    {
+        "title": "Art of Love",
+        "year": "2024",
+        "runtime": "1h 39m",
+        "rated": "TV-MA",
+        "imdb_rating": "4.5"
+    }
+]

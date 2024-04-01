@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Halo",
+        "year": "2022\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Invincible",
+        "year": "2021\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "The Walking Dead: The Ones Who Live",
+        "year": "2024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "True Detective",
+        "year": "2014\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.9"
+    },
+    {
+        "title": "Masters of the Air",
+        "year": "2024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Three-Body",
+        "year": "2023\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "The Walking Dead",
+        "year": "2010\u20132022",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Manhunt",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Law & Order: Special Victims Unit",
+        "year": "1999\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Constellation",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "Breaking Bad",
+        "year": "2008\u20132013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "9.5"
+    },
+    {
+        "title": "Death in Paradise",
+        "year": "2011\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Stranger Things",
+        "year": "2016\u20132025",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "NCIS",
+        "year": "2003\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Tokyo Vice",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Fargo",
+        "year": "2014\u20132024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.9"
+    },
+    {
+        "title": "Criminal Minds",
+        "year": "2005\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "A Gentleman in Moscow",
+        "year": "2024\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "9-1-1",
+        "year": "2018\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Supernatural",
+        "year": "2005\u20132020",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "The Acolyte",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Death and Other Details",
+        "year": "2024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Black Mirror",
+        "year": "2011\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Reacher",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "American Horror Story",
+        "year": "2011\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "The Last of Us",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "The Wire",
+        "year": "2002\u20132008",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "9.3"
+    },
+    {
+        "title": "Chicago P.D.",
+        "year": "2014\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "The Blacklist",
+        "year": "2013\u20132023",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Sherlock",
+        "year": "2010\u20132017",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "9.1"
+    },
+    {
+        "title": "Lost",
+        "year": "2004\u20132010",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Law & Order",
+        "year": "1990\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "The X-Files",
+        "year": "1993\u20132018",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "The Tourist",
+        "year": "2022\u20132024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "FBI",
+        "year": "2018\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Severance",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Blue Bloods",
+        "year": "2010\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Slow Horses",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "S.W.A.T.",
+        "year": "2017\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Mr. & Mrs. Smith",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "CSI: Crime Scene Investigation",
+        "year": "2000\u20132015",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "From",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "You",
+        "year": "2018\u20132024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "year": "2020\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Sons of Anarchy",
+        "year": "2008\u20132014",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Only Murders in the Building",
+        "year": "2021\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "The Vampire Diaries",
+        "year": "2009\u20132017",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "The Cleaning Lady",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "The Mentalist",
+        "year": "2008\u20132015",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Station 19",
+        "year": "2018\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Kung Fu Panda 4",
+        "year": "2024",
+        "runtime": "1h 34m",
+        "rated": "PG",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Trolls Band Together",
+        "year": "2023",
+        "runtime": "1h 31m",
+        "rated": "PG",
+        "imdb_rating": "6.0"
+    },
+    {
+        "title": "Kung Fu Panda",
+        "year": "2008",
+        "runtime": "1h 32m",
+        "rated": "PG",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "runtime": "2h 20m",
+        "rated": "PG",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "The Boy and the Heron",
+        "year": "2023",
+        "runtime": "2h 4m",
+        "rated": "PG-13",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Migration",
+        "year": "2023",
+        "runtime": "1h 23m",
+        "rated": "PG",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Inside Out 2",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "year": "2023",
+        "runtime": "1h 32m",
+        "rated": "PG",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Kung Fu Panda 3",
+        "year": "2016",
+        "runtime": "1h 35m",
+        "rated": "PG",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "year": "2024",
+        "runtime": "2h 10m",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Peasants",
+        "year": "2023",
+        "runtime": "1h 54m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+        "year": "2023",
+        "runtime": "1h 39m",
+        "rated": "PG",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Megamind vs. The Doom Syndicate",
+        "year": "2024",
+        "runtime": "1h 23m",
+        "rated": "TV-G",
+        "imdb_rating": "2.3"
+    },
+    {
+        "title": "Wish",
+        "year": "2023",
+        "runtime": "1h 35m",
+        "rated": "PG",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "Kung Fu Panda 2",
+        "year": "2011",
+        "runtime": "1h 30m",
+        "rated": "PG",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Cars",
+        "year": "2006",
+        "runtime": "1h 56m",
+        "rated": "G",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "runtime": "2h 5m",
+        "rated": "PG",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Robot Dreams",
+        "year": "2023",
+        "runtime": "1h 42m",
+        "rated": "Not Rated",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Spider-Man: Beyond the Spider-Verse",
+        "year": "N/A",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Lion King",
+        "year": "1994",
+        "runtime": "1h 28m",
+        "rated": "G",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Elemental",
+        "year": "2023",
+        "runtime": "1h 41m",
+        "rated": "PG",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "The Garfield Movie",
+        "year": "2024",
+        "runtime": "PG",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Inside Out",
+        "year": "2015",
+        "runtime": "1h 35m",
+        "rated": "PG",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": "2004",
+        "runtime": "1h 59m",
+        "rated": "PG",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Ratatouille",
+        "year": "2007",
+        "runtime": "1h 51m",
+        "rated": "G",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Despicable Me 4",
+        "year": "2024",
+        "runtime": "PG",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Puss in Boots: The Last Wish",
+        "year": "2022",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Moana",
+        "year": "2016",
+        "runtime": "1h 47m",
+        "rated": "PG",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "runtime": "1h 57m",
+        "rated": "PG",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Sing 2",
+        "year": "2021",
+        "runtime": "1h 50m",
+        "rated": "PG",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Zootopia",
+        "year": "2016",
+        "runtime": "1h 48m",
+        "rated": "PG",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Leo",
+        "year": "2023",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Encanto",
+        "year": "2021",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Hop",
+        "year": "2011",
+        "runtime": "1h 35m",
+        "rated": "PG",
+        "imdb_rating": "5.4"
+    },
+    {
+        "title": "Luca",
+        "year": "2021",
+        "runtime": "1h 35m",
+        "rated": "PG",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "The Casagrandes Movie",
+        "year": "2024",
+        "runtime": "1h 29m",
+        "rated": "TV-Y7",
+        "imdb_rating": "5.9"
+    },
+    {
+        "title": "Transformers One",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Shrek",
+        "year": "2001",
+        "runtime": "1h 30m",
+        "rated": "PG",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "The Incredibles",
+        "year": "2004",
+        "runtime": "1h 55m",
+        "rated": "PG",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "The Prince of Egypt",
+        "year": "1998",
+        "runtime": "1h 39m",
+        "rated": "PG",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Frozen",
+        "year": "2013",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Toy Story",
+        "year": "1995",
+        "runtime": "1h 21m",
+        "rated": "G",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Nimona",
+        "year": "2023",
+        "runtime": "1h 41m",
+        "rated": "PG",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Cat and Dog",
+        "year": "2024",
+        "runtime": "1h 26m",
+        "rated": "TV-MA",
+        "imdb_rating": "5.1"
+    },
+    {
+        "title": "Up",
+        "year": "2009",
+        "runtime": "1h 36m",
+        "rated": "PG",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Your Name.",
+        "year": "2016",
+        "runtime": "1h 46m",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "The Lion King",
+        "year": "2019",
+        "runtime": "1h 58m",
+        "rated": "PG",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Sing",
+        "year": "2016",
+        "runtime": "1h 48m",
+        "rated": "PG",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Moana 2",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Finding Nemo",
+        "year": "2003",
+        "runtime": "1h 40m",
+        "rated": "G",
+        "imdb_rating": "8.2"
+    }
+]

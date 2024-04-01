@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Road House",
+        "year": "2024",
+        "runtime": "2h 1m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "runtime": "2h 46m",
+        "rated": "PG-13",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "Godzilla x Kong: The New Empire",
+        "year": "2024",
+        "runtime": "1h 55m",
+        "rated": "PG-13",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Road House",
+        "year": "1989",
+        "runtime": "1h 54m",
+        "rated": "R",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Dune",
+        "year": "2021",
+        "runtime": "2h 35m",
+        "rated": "PG-13",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Damsel",
+        "year": "2024",
+        "runtime": "1h 50m",
+        "rated": "PG-13",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "Kung Fu Panda 4",
+        "year": "2024",
+        "runtime": "1h 34m",
+        "rated": "PG",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "The Gentlemen",
+        "year": "2019",
+        "runtime": "1h 53m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Love Lies Bleeding",
+        "year": "2024",
+        "runtime": "1h 44m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Madame Web",
+        "year": "2024",
+        "runtime": "1h 56m",
+        "rated": "PG-13",
+        "imdb_rating": "3.8"
+    },
+    {
+        "title": "Bad Boys: Ride or Die",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Ghostbusters",
+        "year": "1984",
+        "runtime": "1h 45m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Monkey Man",
+        "year": "2024",
+        "runtime": "2h 1m",
+        "rated": "R",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Civil War",
+        "year": "2024",
+        "runtime": "1h 49m",
+        "rated": "R",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "Fighter",
+        "year": "2024",
+        "runtime": "2h 46m",
+        "rated": "N/A",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Argylle",
+        "year": "2024",
+        "runtime": "2h 19m",
+        "rated": "PG-13",
+        "imdb_rating": "5.7"
+    },
+    {
+        "title": "Dune",
+        "year": "1984",
+        "runtime": "2h 17m",
+        "rated": "PG-13",
+        "imdb_rating": "6.3"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": "2022",
+        "runtime": "2h 10m",
+        "rated": "PG-13",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "The Beekeeper",
+        "year": "2024",
+        "runtime": "1h 45m",
+        "rated": "R",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "The Crow",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Fall Guy",
+        "year": "2024",
+        "runtime": "2h 6m",
+        "rated": "PG-13",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Godzilla Minus One",
+        "year": "2023",
+        "runtime": "2h 4m",
+        "rated": "PG-13",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Godzilla vs. Kong",
+        "year": "2021",
+        "runtime": "1h 53m",
+        "rated": "PG-13",
+        "imdb_rating": "6.3"
+    },
+    {
+        "title": "Napoleon",
+        "year": "2023",
+        "runtime": "2h 38m",
+        "rated": "R",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "Land of Bad",
+        "year": "2024",
+        "runtime": "1h 53m",
+        "rated": "R",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": "2019",
+        "runtime": "2h 32m",
+        "rated": "PG-13",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Furiosa: A Mad Max Saga",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Aquaman and the Lost Kingdom",
+        "year": "2023",
+        "runtime": "2h 4m",
+        "rated": "PG-13",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "The Batman",
+        "year": "2022",
+        "runtime": "2h 56m",
+        "rated": "PG-13",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Animal",
+        "year": "2023",
+        "runtime": "3h 24m",
+        "rated": "Not Rated",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "year": "2023",
+        "runtime": "2h 37m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Rebel Moon - Part One: A Child of Fire",
+        "year": "2023",
+        "runtime": "2h 13m",
+        "rated": "PG-13",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "Top Gun",
+        "year": "1986",
+        "runtime": "1h 49m",
+        "rated": "PG",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "Ghostbusters",
+        "year": "2016",
+        "runtime": "1h 57m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "runtime": "2h 32m",
+        "rated": "PG-13",
+        "imdb_rating": "9.0"
+    },
+    {
+        "title": "Bullet Train",
+        "year": "2022",
+        "runtime": "2h 7m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "year": "2023",
+        "runtime": "2h 43m",
+        "rated": "PG-13",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Kingdom of the Planet of the Apes",
+        "year": "2024",
+        "runtime": "PG-13",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": "2015",
+        "runtime": "2h",
+        "rated": "R",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "runtime": "2h 28m",
+        "rated": "PG-13",
+        "imdb_rating": "8.8"
+    },
+    {
+        "title": "The Crow",
+        "year": "1994",
+        "runtime": "1h 42m",
+        "rated": "R",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "The Accountant",
+        "year": "2016",
+        "runtime": "2h 8m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Blade Runner 2049",
+        "year": "2017",
+        "runtime": "2h 44m",
+        "rated": "R",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Gran Turismo",
+        "year": "2023",
+        "runtime": "2h 14m",
+        "rated": "PG-13",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Brothers Grimsby",
+        "year": "2016",
+        "runtime": "1h 23m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Drive-Away Dolls",
+        "year": "2024",
+        "runtime": "1h 24m",
+        "rated": "R",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "runtime": "2h 58m",
+        "rated": "PG-13",
+        "imdb_rating": "8.9"
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "year": "2022",
+        "runtime": "2h 19m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Kung Fu Panda",
+        "year": "2008",
+        "runtime": "1h 32m",
+        "rated": "PG",
+        "imdb_rating": "7.6"
+    }
+]

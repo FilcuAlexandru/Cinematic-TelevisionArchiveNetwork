@@ -1,0 +1,352 @@
+[
+    {
+        "title": "House of the Dragon",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Grey's Anatomy",
+        "year": "2005\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "One Day",
+        "year": "2024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "The Big Bang Theory",
+        "year": "2007\u20132019",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Friends",
+        "year": "1994\u20132004",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.9"
+    },
+    {
+        "title": "Modern Family",
+        "year": "2009\u20132020",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Vikings",
+        "year": "2013\u20132020",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Bridgerton",
+        "year": "2020\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "The Rain in Espa\u00f1a",
+        "year": "2023",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Outlander",
+        "year": "2014\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "You",
+        "year": "2018\u20132024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Queen of Tears",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "The Vampire Diaries",
+        "year": "2009\u20132017",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Sex Education",
+        "year": "2019\u20132023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Little House on the Prairie",
+        "year": "1974\u20131983",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Station 19",
+        "year": "2018\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Two and a Half Men",
+        "year": "2003\u20132015",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "This Is Us",
+        "year": "2016\u20132022",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Castle",
+        "year": "2009\u20132016",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "How I Met Your Mother",
+        "year": "2005\u20132014",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Buffy the Vampire Slayer",
+        "year": "1997\u20132003",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Gossip Girl",
+        "year": "2007\u20132012",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "ER",
+        "year": "1994\u20132009",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Downton Abbey",
+        "year": "2010\u20132015",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Spartacus",
+        "year": "2010\u20132013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Young Royals",
+        "year": "2021\u20132024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "One Tree Hill",
+        "year": "2003\u20132012",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "New Girl",
+        "year": "2011\u20132018",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Once Upon a Time",
+        "year": "2011\u20132018",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "True Blood",
+        "year": "2008\u20132014",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Desperate Housewives",
+        "year": "2004\u20132012",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "iCarly",
+        "year": "2007\u20132012",
+        "runtime": "TV-G",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "BMF",
+        "year": "2021\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Sex and the City",
+        "year": "1998\u20132004",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Alice & Jack",
+        "year": "2023\u20132024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "The Tudors",
+        "year": "2007\u20132010",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Normal People",
+        "year": "2020",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "The Nanny",
+        "year": "1993\u20131999",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "My Life with the Walter Boys",
+        "year": "2023\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Outer Banks",
+        "year": "2020\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Zoey 101",
+        "year": "2005\u20132008",
+        "runtime": "TV-Y7",
+        "rated": "N/A",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "The Good Place",
+        "year": "2016\u20132020",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Rome",
+        "year": "2005\u20132007",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "The Love Boat",
+        "year": "1977\u20131987",
+        "runtime": "TV-G",
+        "rated": "N/A",
+        "imdb_rating": "6.3"
+    },
+    {
+        "title": "Pretty Little Liars",
+        "year": "2010\u20132017",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Victorious",
+        "year": "2010\u20132013",
+        "runtime": "TV-G",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Baywatch",
+        "year": "1989\u20132001",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "5.4"
+    },
+    {
+        "title": "The Summer I Turned Pretty",
+        "year": "2022\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Beverly Hills, 90210",
+        "year": "1990\u20132000",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Vikings: Valhalla",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    }
+]

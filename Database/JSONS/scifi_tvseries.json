@@ -1,0 +1,352 @@
+[
+    {
+        "title": "3 Body Problem",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Halo",
+        "year": "2022\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "Invincible",
+        "year": "2021\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "X-Men '97",
+        "year": "2024\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "9.0"
+    },
+    {
+        "title": "Resident Alien",
+        "year": "2021\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Three-Body",
+        "year": "2023\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Constellation",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "Stranger Things",
+        "year": "2016\u20132025",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "The Boys",
+        "year": "2019\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Star Wars: The Bad Batch",
+        "year": "2021\u20132024",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "X-Men: The Animated Series",
+        "year": "1992\u20131997",
+        "runtime": "TV-Y7",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "The Acolyte",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Doctor Who",
+        "year": "2005\u20132022",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Black Mirror",
+        "year": "2011\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "American Horror Story",
+        "year": "2011\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Fallout",
+        "year": "2024\u2013",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "The Last of Us",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Lost",
+        "year": "2004\u20132010",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Ark: The Animated Series",
+        "year": "2024\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "The X-Files",
+        "year": "1993\u20132018",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.6"
+    },
+    {
+        "title": "Severance",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Silo",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "Rick and Morty",
+        "year": "2013\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "9.1"
+    },
+    {
+        "title": "From",
+        "year": "2022\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Star Trek: Discovery",
+        "year": "2017\u20132024",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "The Mandalorian",
+        "year": "2019\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "For All Mankind",
+        "year": "2019\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.1"
+    },
+    {
+        "title": "The Signal",
+        "year": "2024",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.0"
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "year": "2017\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Star Trek: The Next Generation",
+        "year": "1987\u20131994",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "Dark",
+        "year": "2017\u20132020",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.7"
+    },
+    {
+        "title": "The 100",
+        "year": "2014\u20132020",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Monarch: Legacy of Monsters",
+        "year": "2023\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "The Legend of Korra",
+        "year": "2012\u20132014",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Smallville",
+        "year": "2001\u20132017",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "The Expanse",
+        "year": "2015\u20132022",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Westworld",
+        "year": "2016\u20132022",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Ninja Kamui",
+        "year": "2024\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "Extraordinary",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Foundation",
+        "year": "2021\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Star Trek: Strange New Worlds",
+        "year": "2022\u2013",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.3"
+    },
+    {
+        "title": "The Flash",
+        "year": "2014\u20132023",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Twisted Metal",
+        "year": "2023\u2013",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "7.4"
+    },
+    {
+        "title": "Fear the Walking Dead",
+        "year": "2015\u20132023",
+        "runtime": "TV-MA",
+        "rated": "N/A",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Andor",
+        "year": "2022\u2013",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "The Orville",
+        "year": "2017\u20132022",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Person of Interest",
+        "year": "2011\u20132016",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.5"
+    },
+    {
+        "title": "Dune",
+        "year": "2000",
+        "runtime": "Not Rated",
+        "rated": "N/A",
+        "imdb_rating": "6.9"
+    },
+    {
+        "title": "Stargate SG-1",
+        "year": "1997\u20132007",
+        "runtime": "TV-14",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Star Trek",
+        "year": "1966\u20131969",
+        "runtime": "TV-PG",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    }
+]

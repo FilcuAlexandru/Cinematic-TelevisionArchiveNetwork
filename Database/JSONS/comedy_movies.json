@@ -1,0 +1,352 @@
+[
+    {
+        "title": "Ghostbusters: Frozen Empire",
+        "year": "2024",
+        "runtime": "1h 55m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Poor Things",
+        "year": "2023",
+        "runtime": "2h 21m",
+        "rated": "R",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Beetlejuice Beetlejuice",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Kung Fu Panda 4",
+        "year": "2024",
+        "runtime": "1h 34m",
+        "rated": "PG",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Ricky Stanicky",
+        "year": "2024",
+        "runtime": "1h 53m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Ghostbusters: Afterlife",
+        "year": "2021",
+        "runtime": "2h 4m",
+        "rated": "PG-13",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Unfrosted: The Pop-Tart Story",
+        "year": "2024",
+        "runtime": "1h 33m",
+        "rated": "PG-13",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Wonka",
+        "year": "2023",
+        "runtime": "1h 56m",
+        "rated": "PG",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Anyone But You",
+        "year": "2023",
+        "runtime": "1h 43m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Beetlejuice",
+        "year": "1988",
+        "runtime": "1h 32m",
+        "rated": "PG",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "Bad Boys: Ride or Die",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Ghostbusters",
+        "year": "1984",
+        "runtime": "1h 45m",
+        "rated": "PG",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Kinds of Kindness",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Irish Wish",
+        "year": "2024",
+        "runtime": "1h 33m",
+        "rated": "TV-PG",
+        "imdb_rating": "5.2"
+    },
+    {
+        "title": "Argylle",
+        "year": "2024",
+        "runtime": "2h 19m",
+        "rated": "PG-13",
+        "imdb_rating": "5.7"
+    },
+    {
+        "title": "American Fiction",
+        "year": "2023",
+        "runtime": "1h 57m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Barbie",
+        "year": "2023",
+        "runtime": "1h 54m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "The Holdovers",
+        "year": "2023",
+        "runtime": "2h 13m",
+        "rated": "R",
+        "imdb_rating": "7.9"
+    },
+    {
+        "title": "Dream Scenario",
+        "year": "2023",
+        "runtime": "1h 42m",
+        "rated": "R",
+        "imdb_rating": "7.0"
+    },
+    {
+        "title": "Madgaon Express",
+        "year": "2024",
+        "runtime": "2h 23m",
+        "rated": "N/A",
+        "imdb_rating": "8.4"
+    },
+    {
+        "title": "Mean Girls",
+        "year": "2024",
+        "runtime": "1h 52m",
+        "rated": "PG-13",
+        "imdb_rating": "5.7"
+    },
+    {
+        "title": "The Fall Guy",
+        "year": "2024",
+        "runtime": "2h 6m",
+        "rated": "PG-13",
+        "imdb_rating": "7.7"
+    },
+    {
+        "title": "Trolls Band Together",
+        "year": "2023",
+        "runtime": "1h 31m",
+        "rated": "PG",
+        "imdb_rating": "6.0"
+    },
+    {
+        "title": "The American Society of Magical Negroes",
+        "year": "2024",
+        "runtime": "1h 44m",
+        "rated": "PG-13",
+        "imdb_rating": "2.4"
+    },
+    {
+        "title": "Once Upon a Time... in Hollywood",
+        "year": "2019",
+        "runtime": "2h 41m",
+        "rated": "R",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "year": "2024",
+        "runtime": "N/A",
+        "rated": "N/A",
+        "imdb_rating": "N/A"
+    },
+    {
+        "title": "Murder Mubarak",
+        "year": "2024",
+        "runtime": "2h 20m",
+        "rated": "TV-MA",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Wicked Little Letters",
+        "year": "2023",
+        "runtime": "1h 40m",
+        "rated": "R",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "Ghostbusters",
+        "year": "2016",
+        "runtime": "1h 57m",
+        "rated": "PG-13",
+        "imdb_rating": "6.8"
+    },
+    {
+        "title": "Bullet Train",
+        "year": "2022",
+        "runtime": "2h 7m",
+        "rated": "R",
+        "imdb_rating": "7.3"
+    },
+    {
+        "title": "The Brothers Grimsby",
+        "year": "2016",
+        "runtime": "1h 23m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "Drive-Away Dolls",
+        "year": "2024",
+        "runtime": "1h 24m",
+        "rated": "R",
+        "imdb_rating": "5.6"
+    },
+    {
+        "title": "Lisa Frankenstein",
+        "year": "2024",
+        "runtime": "1h 41m",
+        "rated": "PG-13",
+        "imdb_rating": "6.1"
+    },
+    {
+        "title": "Miller's Girl",
+        "year": "2024",
+        "runtime": "1h 33m",
+        "rated": "R",
+        "imdb_rating": "5.2"
+    },
+    {
+        "title": "Bodies Bodies Bodies",
+        "year": "2022",
+        "runtime": "1h 34m",
+        "rated": "R",
+        "imdb_rating": "6.2"
+    },
+    {
+        "title": "The Favourite",
+        "year": "2018",
+        "runtime": "1h 59m",
+        "rated": "R",
+        "imdb_rating": "7.5"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": "2013",
+        "runtime": "3h",
+        "rated": "R",
+        "imdb_rating": "8.2"
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "year": "2022",
+        "runtime": "2h 19m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Kung Fu Panda",
+        "year": "2008",
+        "runtime": "1h 32m",
+        "rated": "PG",
+        "imdb_rating": "7.6"
+    },
+    {
+        "title": "No Hard Feelings",
+        "year": "2023",
+        "runtime": "1h 43m",
+        "rated": "R",
+        "imdb_rating": "6.4"
+    },
+    {
+        "title": "Crew",
+        "year": "2024",
+        "runtime": "1h 58m",
+        "rated": "N/A",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Mean Girls",
+        "year": "2004",
+        "runtime": "1h 37m",
+        "rated": "PG-13",
+        "imdb_rating": "7.1"
+    },
+    {
+        "title": "La La Land",
+        "year": "2016",
+        "runtime": "2h 8m",
+        "rated": "PG-13",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Ghostbusters II",
+        "year": "1989",
+        "runtime": "1h 48m",
+        "rated": "PG",
+        "imdb_rating": "6.6"
+    },
+    {
+        "title": "The Menu",
+        "year": "2022",
+        "runtime": "1h 47m",
+        "rated": "R",
+        "imdb_rating": "7.2"
+    },
+    {
+        "title": "The Breakfast Club",
+        "year": "1985",
+        "runtime": "1h 37m",
+        "rated": "R",
+        "imdb_rating": "7.8"
+    },
+    {
+        "title": "Migration",
+        "year": "2023",
+        "runtime": "1h 23m",
+        "rated": "PG",
+        "imdb_rating": "6.7"
+    },
+    {
+        "title": "Next Goal Wins",
+        "year": "2023",
+        "runtime": "1h 44m",
+        "rated": "PG-13",
+        "imdb_rating": "6.5"
+    },
+    {
+        "title": "Deadpool",
+        "year": "2016",
+        "runtime": "1h 48m",
+        "rated": "R",
+        "imdb_rating": "8.0"
+    },
+    {
+        "title": "Upgraded",
+        "year": "2024",
+        "runtime": "1h 44m",
+        "rated": "R",
+        "imdb_rating": "6.1"
+    }
+]
